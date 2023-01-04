@@ -1,2 +1,4 @@
 https://probability4datascience.com/index.html
 https://onlinestatbook.com/stat_sim/index.html
+bit.ly/dhanushki - reference book
+find w* - Make sure that (w_hat x_i)y_i >= 1. There is a smallest value of (w_hat x_i)y_i over all datapoints, call this c, then  w* = w_hat/c
